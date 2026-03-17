@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I am Carlton - Welcome to my Hub 👋
+" Shaping Chaos into patterns you can trust" 
 
 <!--
 **ctchisambara-source/ctchisambara-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
