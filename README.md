@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Carlton - Welcome to my Hub 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF5733&width=600&lines=Data+Technician+|+BI+|+Analytics" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF5733&width=600&lines=Data+Analyst+|+BI+|+Analytics" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -8,6 +8,8 @@
 </p>
 
 A Data Technician/Analyst turning raw data into actionable insights. I work across Tableau, Power BI, Azure, MySQL, Python, and analytics platforms to clean, analyze, and visualize data that drives decisions.
+
+Interested in health-focused data analysis | Combining my medical background with analytics to uncover insights that improve wellbeing.
 
 ## Skillset
 
