@@ -7,7 +7,7 @@
   <em>"Shaping chaos into patterns you can trust"</em>
 </p>
 
-A Data Technician/Analyst turning raw data into actionable insights. I work across Tableau, Power BI, Azure, MySQL, Python, and analytics platforms to clean, analyze, and visualize data that drives decisions.
+Aspiring Data Technician/Analyst turning raw data into actionable insights. I work across Tableau, Power BI, Azure, MySQL, Python, and analytics platforms to clean, analyze, and visualize data that drives decisions.
 
 Interested in health-focused data analysis | Combining my medical background with analytics to uncover insights that improve wellbeing.
 
